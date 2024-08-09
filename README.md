@@ -38,7 +38,7 @@
 
 <div align="left">
   <a href="https://kostegs.name" target="_blank">
-    <img src="http://kostegs.name/wp-content/uploads/HomePage_Icon.png" alt="HomePage" />
+    <img src="http://kostegs.name/wp-content/uploads/HomePage_Icon.png" alt="HomePage" height="25"/>
   </a>
   <a href="https://www.youtube.com/@Kostegs" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />    
